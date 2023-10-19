@@ -1,8 +1,8 @@
 
 
-AmigoChat is a completely responsive real-time chat application built on MERN Stack and Socket.io
+It is a completely responsive real-time chat application built on MERN Stack and Socket.io
 
-Live - [AmigoChat](https://naughty-dubinsky-9a9ca1.netlify.app/) <br/>
+Live - [Demo](https://naughty-dubinsky-9a9ca1.netlify.app/) <br/>
 
 
 ### Screenshots Of Mobile View
