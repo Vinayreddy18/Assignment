@@ -5,10 +5,6 @@ It is a completely responsive real-time chat application built on MERN Stack and
 Live - [Demo](https://naughty-dubinsky-9a9ca1.netlify.app/) <br/>
 
 
-### Screenshots Of Mobile View
-
-![1](https://user-images.githubusercontent.com/73348574/126811022-28b1e572-0bbd-40ed-a423-dca4bb57c4d6.png)
-
 
 ## Index ✏️
 
